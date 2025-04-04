@@ -4,7 +4,7 @@
 
 1. Hier ist meines Bugfix. Ich habe erstes Bug gefixt. Das war
 se-e-ehr schwer.
-2. Hier habe ich noch eines Bug gefunden. Schon gefixt.
+2. Hier war noch eines bug.
 
 == Feature 1
 
