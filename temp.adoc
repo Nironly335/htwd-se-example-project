@@ -6,7 +6,8 @@
 
 == Feature 1
 
-This is first feature branch. It was first commit.
+This is first feature branch. It was first commit. 
+Here is second commit of feature branch.
 
 == Feature 2
 
